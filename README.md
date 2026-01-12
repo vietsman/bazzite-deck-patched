@@ -7,7 +7,7 @@ To rebase an existing Bazzite installation to this latest build:
 
 - Rebase to the signed image, like so:
   ```
-  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/vietsman/bazzite-kde-patched:latest
+  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/vietsman/bazzite-deck-patched:latest
   ```
 - Reboot to complete the installation
   ```
